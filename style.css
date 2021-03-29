@@ -1,0 +1,26 @@
+caption{
+    text-align: left;
+    border-bottom: dotted gray ;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.szeles{
+    width: 100%;
+}
+input, select, option{
+    height: 30px;
+}
+#mentes{
+    height: 50px;
+    width: 231%;
+    background-color: rgb(20, 200, 30);
+    color: white;
+    border: none; 
+}    
+    
+tr{
+    font-family: Arial, Helvetica, sans-serif;
+}
+label{
+    font-size: 14px;
+}
